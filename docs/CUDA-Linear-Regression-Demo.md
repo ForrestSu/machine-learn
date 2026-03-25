@@ -4,7 +4,7 @@
 @email: sunquana@gmail.com
 Copyright@2017  
 --> 
-<center> <h2>How To Build CUDA environment (Windows)</h2></center>
+<center> <h2>CUDA-Linear-Regression-Demo (Windows)</h2></center>
 <p align="right">[sunquan](mailto:sunquana@gmail.com) 2017-06-12   </p>
 
 
